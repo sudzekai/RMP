@@ -1,0 +1,7 @@
+<resources>
+    <color name="resource_background">#FFF8ED</color>
+    <color name="resource_ink">#261A12</color>
+    <color name="resource_accent">#754922</color>
+    <color name="resource_on_accent">#FFFFFF</color>
+    <color name="resource_outline">#89776A</color>
+</resources>

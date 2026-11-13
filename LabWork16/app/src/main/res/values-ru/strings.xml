@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ресурсы Android</string>
+    <string name="search">Поиск</string>
+    <string name="menu">Меню</string>
+    <string name="copyright">© %1$s. Все права защищены. %2$d</string>
+    <string name="image_description">Значок Android</string>
+    <string-array name="developers">
+        <item>Судзэкай</item>
+    </string-array>
+    <plurals name="hours">
+        <item quantity="one">%1$d час</item>
+        <item quantity="few">%1$d часа</item>
+        <item quantity="many">%1$d часов</item>
+        <item quantity="other">%1$d часа</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="one">%1$d минута</item>
+        <item quantity="few">%1$d минуты</item>
+        <item quantity="many">%1$d минут</item>
+        <item quantity="other">%1$d минуты</item>
+    </plurals>
+</resources>
